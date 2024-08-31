@@ -25,7 +25,5 @@ Skills: JS / HTML / CSS
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rabby0063/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/rabby0063)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rabby0063)  
 
