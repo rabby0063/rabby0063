@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Md Rabbul Hossain
+### Hi there 👋, my name is Rabby Khan ( Rabbul Hossain )
 #### Web Developer
 ![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
